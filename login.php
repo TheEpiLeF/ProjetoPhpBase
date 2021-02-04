@@ -43,6 +43,18 @@ if(isset($_POST['sub'])){
                         <input type="submit" name="sub" value="submit">
                     </td>
                 </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="reg" value="Register">
+                    </td>
+                </tr>
+
+            <tr>
+                <td>
+                <a href="reg.php"> Register</a>
+
+                </td>
+            </tr>
             </table>
     </body>
 </html>
