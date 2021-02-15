@@ -46,8 +46,8 @@ if(isset($_POST['sub'])){
                         city
                         <select name="city">
                             <option value="">-select-</option>
-                            <option value="knp">kanpur</option>
-                            <option value="lko">lucknow</option>
+                            <option value="knp">Campinas</option>
+                            <option value="lko">Hortolandia</option>
                     </td>
                 </tr>
                 <tr>
